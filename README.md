@@ -16,12 +16,15 @@
 
 #### 2. Build Command
 |      Version     | Command
-|:----------------:|:-------------------------------------------------------------------------------------------:|
-|      v20.08      |   |
-|      v20.05      |   |
-|      v20.02      |   |
+|:----------------:|:--------------------------------------------------------------------------------------------------:|
+|      v20.08      | python USD/build_scripts/build_usd.py --openimageio --opencolorio --ptex --alembic /usr/local/USD  |
+|      v20.05      | python USD/build_scripts/build_usd.py --openimageio --opencolorio --ptex --alembic /usr/local/USD  |
+|      v20.02      | python USD/build_scripts/build_usd.py --openimageio --opencolorio --ptex --alembic /usr/local/USD  |
 
 #### 3. Thrid Party - Maya
 |      Version     | Command 
-|:----------------:|:-------------------------------------------------------------------------------------------:|
-|      v20.02      |   |
+|:----------------:|:------------------------------------------------------------------------------------------------------------:|
+|      v20.02      | python build.py --maya-location /usr/autodesk/maya20XX --pxrusd-location /usr/local/USD /usr/local/workspace |
+
+* Autodesk Maya official github page https://github.com/Autodesk/maya-usd
+* The documentation that was previously on this page can be found at [maya-usd](https://github.com/Autodesk/maya-usd/blob/dev/plugin/pxr/doc/README.md)
