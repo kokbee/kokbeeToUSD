@@ -1,5 +1,7 @@
 # Build To Pixar USD 
 
+### Information
+   Pixar USD 개인 빌드 레포지터리 (v0.20 >=) 
 
 #### 1. Build info
 |      Version     |   Build OS  |   Cmake  |  Gcc/G++ |   Boost  | Python2.7 |  Python3  |
