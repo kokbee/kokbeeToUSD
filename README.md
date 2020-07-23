@@ -37,3 +37,9 @@
 
 ### Run Python USD
 * from pxr import Usd
+
+### Etc & Build Tip
+* USD core만 빌드된 레포지터리입니다.
+* python USD/build_scripts/build_usd.py -v -v 옵션을 주면 컴파일 진행 상황을 볼 수 있습니다.
+* 우분투와 CentOS8에서 빌드 가능합니다.
+* 서드파티 플러그인은 v0.19버전까지 core 스크립트로만 가능합니다.
