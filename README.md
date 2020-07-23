@@ -30,11 +30,10 @@
 * The documentation that was previously on this page can be found at [maya-usd](https://github.com/Autodesk/maya-usd/blob/dev/plugin/pxr/doc/README.md)
 
 #### 4. Use USD & Environment Setup
-   4-1. tar -zxvf v20.xx.tar.gz 
-   4-2. cp -rf USD /usr/local/USD
-   4-3. export PYTHONPATH=/usr/local/USD/lib/python:$PYTHONPATH
-   4-4. export PATH=/usr/local/USD/bin:$PATH
+   1. tar -zxvf v20.xx.tar.gz 
+   2. cp -rf USD /usr/local/USD
+   3. export PYTHONPATH=/usr/local/USD/lib/python:$PYTHONPATH
+   4. export PATH=/usr/local/USD/bin:$PATH
 
-### Run USD
-* python
+### Run Python USD
 * from pxr import Usd
