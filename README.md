@@ -12,3 +12,16 @@
 
 * Pixar's official github page https://github.com/PixarAnimationStudios/USD
 * Read more about Pixar's USD [openusd](http://openusd.org)
+
+
+#### 2. Build Command
+|      Version     | Command
+|:----------------:|:-------------------------------------------------------------------------------------------:|
+|      v20.08      |   |
+|      v20.05      |   |
+|      v20.02      |   |
+
+#### 3. Thrid Party - Maya
+|      Version     | Command 
+|:----------------:|:-------------------------------------------------------------------------------------------:|
+|      v20.02      |   |
