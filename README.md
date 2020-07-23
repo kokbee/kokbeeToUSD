@@ -21,8 +21,8 @@
 |      v20.05      | python USD/build_scripts/build_usd.py --openimageio --opencolorio --ptex --alembic /usr/local/USD  |
 |      v20.02      | python USD/build_scripts/build_usd.py --openimageio --opencolorio --ptex --alembic /usr/local/USD  |
 
-#### 3. Thrid Party - Maya
-|      Version     | Command |
+#### 3. Thrid Party Command
+|      Version     | Maya Command |
 |:----------------:|:------------------------------------------------------------------------------------------------------------:|
 |      v20.02      | python build.py --maya-location /usr/autodesk/maya20XX --pxrusd-location /usr/local/USD /usr/local/workspace |
 
